@@ -915,10 +915,10 @@ export default function App() {
           <div>
             <h4 style={{ marginBottom: '20px' }}>Contact</h4>
 
-            <p style={{ color: '#aaa' }}>hello@beautyoem.com</p>
+            <p style={{ color: '#aaa' }}>annefan@weeqin.com</p>
 
             <p style={{ color: '#aaa' }}>
-              WhatsApp: +86 123456789
+              WhatsApp: +86 13576019156
             </p>
           </div>
         </div>
@@ -926,7 +926,7 @@ export default function App() {
 
       {/* WHATSAPP */}
       <a
-        href='https://wa.me/86123456789'
+        href='https://wa.me/8613576019156'
         target='_blank'
         rel='noreferrer'
         style={{
