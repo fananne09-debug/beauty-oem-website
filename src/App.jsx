@@ -813,7 +813,7 @@ export default function App() {
         </p>
 
         <form
-          action='https://formsubmit.co/your@email.com'
+          action='https://formsubmit.co/annefan@weeqin.com'
           method='POST'
           style={{
             maxWidth: '700px',
